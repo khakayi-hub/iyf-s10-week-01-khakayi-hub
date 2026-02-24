@@ -1,5 +1,6 @@
 # Q1
 **HTML TAGS**
+
 !Doctype html-Declares the document type
 
 Html-Root element of the html
@@ -23,13 +24,19 @@ p- paragraph text
 a-hyperlink element
 
 **Title**
+
 Example domain
 
  **Headings**
+
 one
 
 # Q2
 It is wrapped in the nav tag
+
+**search bar structure**
+form element-wraps the search control
+
 
 
 
