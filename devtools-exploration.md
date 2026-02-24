@@ -1,24 +1,16 @@
 ## HTML TAGS
-<!doctype html> — declares the document type as HTML5
+<!Doctype html>-Declares the document type
+<Html>-Root element of the html
+<Head>-container for metadata
+<Title>-Page title shown in browser tab
+<meta>-metadata
+<style>-internal CSS style
+<body>-main content area
+<div>-generic container used for layout
+<h1>-top level heading
+<p>- paragraph text
+<a>-hyperlink element
 
-<html> — root element of the HTML document
 
-<head> — container for metadata
-
-<title> — page title shown in the browser tab
-
-<meta> — metadata (viewport settings for responsive design)
-
-<style> — internal CSS styles
-
-<body> — main content area
-
-<div> — generic container used for layout
-
-<h1> — top–level heading
-
-<p> — paragraph text
-
-<a> — hyperlink link element
 
 
