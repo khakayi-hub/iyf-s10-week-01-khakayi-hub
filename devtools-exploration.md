@@ -52,6 +52,32 @@ Background color changes.
 
 # Q3
 
+## **HTML elements**
+
+Html-root element of the page.
+
+Head-contains metadata.
+
+Body-contains visible content.
+
+p-paragraph
+
+Ol-ordered list
+
+## **Form element input**
+
+action-where the form data is sent.
+
+method-how data is sent
+
+input element-used to create different types of input fields.
+
+
+
+
+
+
+
 
 
 
