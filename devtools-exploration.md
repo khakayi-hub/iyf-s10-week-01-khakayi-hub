@@ -35,8 +35,12 @@ one
 It is wrapped in the nav tag
 
 **search bar structure**
-form element-wraps the search control
 
+form element-wraps the search control.
+
+input type-this is the actual text field where users type their search terms.
+
+button-a submitt button that sends form.
 
 
 
