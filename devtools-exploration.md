@@ -1,5 +1,5 @@
 # Q1
-**HTML TAGS**
+## **HTML TAGS**
 
 !Doctype html-Declares the document type
 
@@ -23,24 +23,40 @@ p- paragraph text
 
 a-hyperlink element
 
-**Title**
+## **Title**
 
 Example domain
 
- **Headings**
+## **Headings**
 
 one
 
 # Q2
 It is wrapped in the nav tag
 
-**search bar structure**
+## **search bar structure**
 
 form element-wraps the search control.
 
 input type-this is the actual text field where users type their search terms.
 
 button-a submitt button that sends form.
+
+## **hoover over links**
+
+Text color changes.
+
+Cursor changes to a pointer.
+
+Background color changes.
+
+# Q3
+
+
+
+
+
+
 
 
 
