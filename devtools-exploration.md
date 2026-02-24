@@ -21,5 +21,4 @@
 
 <a> — hyperlink link element
 
-## Title
-Example domain
+
