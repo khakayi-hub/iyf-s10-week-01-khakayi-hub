@@ -1,4 +1,4 @@
-## HTML TAGS
+# HTML TAGS
 <!Doctype html>-Declares the document type
 <Html>-Root element of the html
 <Head>-container for metadata
