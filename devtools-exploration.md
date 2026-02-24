@@ -1,4 +1,5 @@
-# Q1 HTML TAGS
+# Q1
+**HTML TAGS**
 !Doctype html-Declares the document type
 
 Html-Root element of the html
@@ -21,13 +22,15 @@ p- paragraph text
 
 a-hyperlink element
 
-## Title
+**Title**
 Example domain
 
-### Headings
+ **Headings**
 one
 
 # Q2
+It is wrapped in the nav tag
+
 
 
 
